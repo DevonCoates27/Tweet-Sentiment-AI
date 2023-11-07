@@ -1,0 +1,16 @@
+# ninja log v5
+1	1733	1699373679041667283	CMakeFiles/sentiment.dir/TokenString.cpp.o	4212a2d0fc7d1e93
+0	1740	1699373679050423345	CMakeFiles/sentiment.dir/main.cpp.o	bad123a1cc8a48d
+1	1743	1699373679053579265	CMakeFiles/sentiment.dir/DSString.cpp.o	66382b4655e37142
+2	1803	1699373679115952475	CMakeFiles/sentiment.dir/Model.cpp.o	8b2a6d4a41c8c453
+1803	1888	1699373679204349956	sentiment	baee5648c3bc9dd8
+3	1172	1699373772746187196	CMakeFiles/sentiment.dir/main.cpp.o	bad123a1cc8a48d
+1173	1311	1699373772900386470	sentiment	baee5648c3bc9dd8
+3	867	1699374933507746491	CMakeFiles/sentiment.dir/main.cpp.o	bad123a1cc8a48d
+870	960	1699374933604617353	sentiment	baee5648c3bc9dd8
+8	818	1699375013361561062	CMakeFiles/sentiment.dir/main.cpp.o	bad123a1cc8a48d
+818	906	1699375013452943244	sentiment	baee5648c3bc9dd8
+4	823	1699375039827935152	CMakeFiles/sentiment.dir/main.cpp.o	bad123a1cc8a48d
+824	912	1699375039921970238	sentiment	baee5648c3bc9dd8
+3	801	1699375055030483536	CMakeFiles/sentiment.dir/main.cpp.o	bad123a1cc8a48d
+803	888	1699375055121151806	sentiment	baee5648c3bc9dd8

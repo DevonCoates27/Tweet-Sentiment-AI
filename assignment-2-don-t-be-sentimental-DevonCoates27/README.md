@@ -1,3 +1,6 @@
+#My Report
+This was the first major assignment I ever received in school with all others being smaller, more basic programs. This program was meant to look at a training dataset of multiple tweets and their sentiment, 0 representing negative and 4 representing positive. For example, a positive tweet would read something like "I love my mother" while a negative tweet would read "I hate everything." After parsing the training dataset, the program was meant to read another dataset without the sentiment assigned and then predict the sentiment. After this it would then check the sentiment with the answers to what the sentiment should be in another file. The accuracy would then be reported.
+
 # Assignment: Don't Be Sentimental!
 
 
